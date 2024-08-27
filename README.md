@@ -1,2 +1,1 @@
-# Clemson DSA-8280: Analytics Bootcamp
-## Dr. John Tripp - Summer 2024
+This repository is provided for reference purposes only. Please refrain from copying any code or content.
