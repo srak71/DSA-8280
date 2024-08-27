@@ -4,12 +4,13 @@ df <- read.csv('C:\\Users\\saran\\Clemson\\DSA-8280\\FinalExam\\Python&R_Portion
 head(df)
 
 
-# 2. Assigning Independent Variables (features) and 
-#   Dependent Variable (target)
+# 2. Assigning Independent Variables (features)
 
 Simplicity <- df$Simplicity
 
 Fatalism <- df$Fatalism
+
+# 3. Assigning Dependent Variable (target)
 
 Depression <- df$Depression
 
