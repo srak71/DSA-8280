@@ -10,6 +10,9 @@ Simplicity <- df$Simplicity
 
 Fatalism <- df$Fatalism
 
+x <- 1
+
+
 # 3. Assigning Dependent Variable (target)
 
 Depression <- df$Depression
